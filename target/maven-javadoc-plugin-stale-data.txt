@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/maarten.frau/Documents/repod_demo/demo2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/maarten.frau/Documents/repod_demo/demo2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo2 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/maarten.frau/Documents/repod_demo/demo2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demo2 1.0-SNAPSHOT API'
+de.schule
+'C:/Users/maarten.frau/Documents/repod_demo/demo2/src/main/java/de/schule/App.java'
+'C:/Users/maarten.frau/Documents/repod_demo/demo2/src/main/java/de/schule/Person.java'
+C:\Users\maarten.frau\Documents\repod_demo\demo2\src\main\java = 1652448827560
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\allclasses-index.html = 1652448962735
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\allpackages-index.html = 1652448962746
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\element-list = 1652448962407
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\help-doc.html = 1652448962858
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\index-all.html = 1652448962835
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\index.html = 1652448962842
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\jquery-ui.overrides.css = 1652448963020
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\member-search-index.js = 1652448962787
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\module-search-index.js = 1652448962750
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\overview-summary.html = 1652448904983
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\overview-tree.html = 1652448962639
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\package-search-index.js = 1652448962754
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\package-summary.html = 1652448904722
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\package-tree.html = 1652448904736
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\package-use.html = 1652448904825
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\Person.html = 1652448904680
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\script.js = 1652448962940
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\search.js = 1652448962952
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\stylesheet.css = 1652448962872
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\tag-search-index.js = 1652448962802
+C:\Users\maarten.frau\Documents\repod_demo\demo2\target\site\apidocs\type-search-index.js = 1652448962784
